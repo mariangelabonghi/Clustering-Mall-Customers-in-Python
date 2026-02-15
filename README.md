@@ -62,7 +62,7 @@ Follow these steps to open and run the notebook:
     ```
 
 2.  **Open the Notebook:**
-    Your browser will open to the Jupyter interface. Navigate to the project directory and click on the main file `Mall_Customer_segmentation_K_means.ipynb`.
+    Your browser will open to the Jupyter interface. Navigate to the project directory and click on the main file `Mall_Customers_Dataset_Cluster_Analysis.ipynb`.
 
 3.  **Run the Analysis:**
     Once the notebook is open, you can run the cells sequentially (e.g., using **Cell > Run All**) to:
