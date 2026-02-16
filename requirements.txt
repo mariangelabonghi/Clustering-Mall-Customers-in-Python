@@ -4,4 +4,4 @@ seaborn
 scikit-learn
 numpy
 scipy
-jupyterlab
+notebook
