@@ -1,5 +1,7 @@
 # Clustering Mall Customers in Python
 
+[![Open In Colab](https://colab.research.google.com/github/mariangelabonghi/Clustering-Mall-Customers-in-Python/blob/main/Mall-Customers-Dataset-Cluster-Analysis.ipynb)
+
 ## Project Overview
 
 This notebook presents a **Cluster Analysis** project in Python focused on the well-known **"Mall Customers" dataset** available on Kaggle.  
