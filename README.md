@@ -1,8 +1,6 @@
 # Clustering Mall Customers in Python
 
-<a href="https://colab.research.google.com/github/mariangelabonghi/Clustering-Mall-Customers-in-Python/blob/main/Mall-Customers-Dataset-Cluster-Analysis.ipynb" target="_blank">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariangelabonghi/Clustering-Mall-Customers-in-Python/blob/main/Mall-Customers-Dataset-Cluster-Analysis.ipynb)
 
 ## Project Overview
 
